@@ -33,3 +33,13 @@ if age >= 18 :
     print("hello dear voter you are eligible to vote")
 else:
     print("you are not eligible to vote")
+
+
+
+#4. pass or fail.
+
+nums =int(input("enter the marks you got:"))
+if nums >=40 :
+    print("congratulation you passed the exam enjoy")
+else:
+    print("better luck next time bro !!")
