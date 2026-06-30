@@ -35,17 +35,6 @@ This repository contains my daily Python practice solutions as I learn and impro
 - Practice Problems
 - Mini Projects
 
-## 📂 Repository Structure
-
-```text
-Daily-Python-Practice/
-│
-├── Day-01/
-├── Day-02/
-├── Day-03/
-├── ...
-└── README.md
-```
 
 Each folder contains:
 - Practice questions
