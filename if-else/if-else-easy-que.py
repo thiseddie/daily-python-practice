@@ -43,3 +43,18 @@ if nums >=40 :
     print("congratulation you passed the exam enjoy")
 else:
     print("better luck next time bro !!")
+
+
+#5. largest of two number 
+
+num1 = int(input("enter the first number :"))
+num2 = int(input("enter the second number :"))
+
+if num1>num2 :
+    print("the first number is grater then the second number entered")
+elif num1 == num2 :
+   print("both the number entered is equal to each other")
+
+else:
+    print("the second number is grater then the first number")
+
