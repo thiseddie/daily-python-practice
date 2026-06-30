@@ -19,3 +19,17 @@ elif nums <0 :
     print("the number entered is zero")
 else:
     print("the number entered is zero")
+
+
+#3. voting eligibility 
+
+
+
+
+name = input("enter your name :")
+age = int(input("enter your age:"))
+
+if age >= 18 :
+    print("hello dear voter you are eligible to vote")
+else:
+    print("you are not eligible to vote")
