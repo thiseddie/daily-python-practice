@@ -10,3 +10,18 @@ elif b>=a and a>=c:
     print("the second number entered is the largest")
 else:
     print("the third number is the largest")
+
+
+#2. find the year is wether a leap year or not.
+
+
+year = int(input("enter the year :"))
+
+if year % 400 ==0 :
+    print("the year entered is a leap year")
+elif year % 100 ==0 :
+    print("the year entered is not a leap year")
+elif year % 4 ==0 :
+    print("the year entered is a leap year")
+else:
+    print("the year is not leap year")
