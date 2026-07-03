@@ -30,3 +30,5 @@ else:
 
 #3. grade calculator. 
 
+marks = int(input("enter the marks you got :"))
+
