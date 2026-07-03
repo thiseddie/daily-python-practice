@@ -25,3 +25,8 @@ elif year % 4 ==0 :
     print("the year entered is a leap year")
 else:
     print("the year is not leap year")
+
+
+
+#3. grade calculator. 
+
