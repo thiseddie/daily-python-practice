@@ -31,7 +31,6 @@ else:
 #3. grade calculator. 
 
 marks = int(input("enter the marks you got :"))
-marks = int(input("enter the marks you got :"))
 
 if marks >= 90 and marks <= 100 :
     print("congo... you got 'A' grade ")
