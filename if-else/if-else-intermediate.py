@@ -47,3 +47,10 @@ else:
 
 
 #4.age category
+
+
+age = int(input("enter the age :"))
+
+if age >=0 and age <=12 :
+    print("as you entered the age you comes in a child category")
+elif age >=13 and age <=19 :
