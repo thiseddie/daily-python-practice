@@ -54,3 +54,8 @@ age = int(input("enter the age :"))
 if age >=0 and age <=12 :
     print("as you entered the age you comes in a child category")
 elif age >=13 and age <=19 :
+    print("as you entered the age you comes in a teenager category")
+elif age >=20 and age <=59 :
+    print("the age you entered. you comes in adult category")
+else :
+     print("as you entered the you comes in senior citien category")
