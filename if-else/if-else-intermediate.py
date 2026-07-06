@@ -69,3 +69,6 @@ num = int(input("enter the number you want to check :))
 
   if num % 5 == 0 and num % 3 == 0:
                 print("the number you entered is divisible by both")
+                elif num % 5 ==0 :
+                print("the number you entered is divisible by 5")
+                
