@@ -59,3 +59,13 @@ elif age >=20 and age <=59 :
     print("The age you entered. you comes in adult category")
 else :
      print("As you entered the you comes in senior citien category")
+
+
+
+
+#5. divisibility check.
+
+num = int(input("enter the number you want to check :))
+
+  if num % 5 == 0 and num % 3 == 0:
+                print("the number you entered is divisible by both")
