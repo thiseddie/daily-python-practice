@@ -19,5 +19,9 @@ elif username ! == "admin" and password == "pyhton123" :
 unit = int(input("enter the unit consumed :"))
 
 if unit <=100 :
-    print("thr bill amount is 0")
+    print("thr bill amount is 0") 
+elif unit > 101 and unit <= 200 :
+    bill = (unit - 100)*5
+    print ("the bill amount is :",bill)
+    
     
