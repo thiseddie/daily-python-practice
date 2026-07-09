@@ -14,3 +14,6 @@ elif username ! == "admin" and password == "pyhton123" :
 
 
 #2. electricity bill calculator
+
+
+unit = int(input("enter the unit consumed :"))
