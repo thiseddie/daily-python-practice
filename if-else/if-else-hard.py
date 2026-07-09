@@ -23,5 +23,7 @@ if unit <=100 :
 elif unit > 101 and unit <= 200 :
     bill = (unit - 100)*5
     print ("the bill amount is :",bill)
-    
+    elif unit > 201 and unit <=300 :
+    bill = (unit - 200)*7
+    print("the bill amount is :",bill)
     
