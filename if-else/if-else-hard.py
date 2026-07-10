@@ -30,4 +30,12 @@ else:
     bill = (unit - 300)*10
     print("the bill amount is :",bill)
 
-    
+
+
+#3. atm withdrawal system 
+
+
+
+acc = int(input("enter the amount you want to withdrawal :"))
+balance = int(input("enter the amount you have in your bank account :"))
+
