@@ -43,4 +43,6 @@ amount = int(input("enter the amount you want to withdraw :"))
  elif balance % 100 != 0 :
 print("you have entered the wrong amount please enter the amount in mutiple of 100")
 else :
-   
+  balance -= amount
+print("please collect your cash")
+print("your remaining balance is :", balance)
