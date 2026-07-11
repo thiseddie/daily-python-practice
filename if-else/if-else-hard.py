@@ -36,6 +36,11 @@ else:
 
 
 
-acc = int(input("enter the amount you want to withdrawal :"))
-balance = int(input("enter the amount you have in your bank account :"))
-
+balance = int(input("enter the account balance :"))
+amount = int(input("enter the amount you want to withdraw :"))
+ if balance <= amount :
+     print("insufficient balance")
+ elif balance % 100 != 0 :
+print("you have entered the wrong amount please enter the amount in mutiple of 100")
+else :
+   
