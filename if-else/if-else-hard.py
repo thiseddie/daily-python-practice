@@ -46,3 +46,11 @@ else :
   balance -= amount
 print("please collect your cash")
 print("your remaining balance is :", balance)
+
+
+
+#4. BMI calculator.
+
+
+height = float(input("enter your height in meter :"))
+weight
