@@ -66,3 +66,8 @@ elif bmi >=25 and bmi <= 30 :
     print("you are overweight")
 else :
     print("obese")
+
+
+
+
+#5. number guessing hint
