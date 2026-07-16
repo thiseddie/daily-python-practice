@@ -14,4 +14,4 @@ while true;
 
    else:
       print("congratulations ! you gussed the correct number.")
-      
+      break
