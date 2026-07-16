@@ -11,4 +11,7 @@ while true;
       print("too low ")
    elif guss > number :
       print("too high")
+
+   else:
+      print("congratulations ! you gussed the correct number.")
       
